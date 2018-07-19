@@ -1,0 +1,6 @@
+year,1221
+globalBonus,1
+// name, age, personalBonus, decInt, decPer, decStr, decSta, decPre, decCom, decDex, decQui
+Samuel,25,0,0,0,0,0,0,0,0,0
+Max,45,5,0,2,4,0,1,2,0,0
+Amy,39,0,0,1,2,0,0,0,0,0
