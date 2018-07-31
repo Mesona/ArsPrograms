@@ -1,4 +1,4 @@
-This program is built to be used in conjunction with the spreadsheet that can be copied here:
+This program is built to be used in conjunction with the spreadsheet that can be copied here, if you don't want to use a text editor to edit the one included:
 https://drive.google.com/file/d/1C5L94AwmdRPBpqQsx74oC3ikz9HO6Cf1/view?usp=sharing
 
 Simply download the "Aging Chart Template.csv" and the main.go, put both files in the same folder on your machine, then run "go run main.go."  If you do not rename "Aging Chart Template.csv" everything should work out of the box, but if you do rename the file, you'll need to edit the variable "filename" at line 19 of main.go.
