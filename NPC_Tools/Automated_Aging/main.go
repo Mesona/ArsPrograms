@@ -259,6 +259,9 @@ func main() {
 			fmt.Print("\nEffective Age of ", name, " is: ", effectiveAge, "\n\n")
 			words[3] = strconv.Itoa(effectiveAge)
 			appearantAge = arrayInt[3]
+			if appearantAge < 35 {
+				appearantAge = effectiveAge
+			}
 			decrepitude = arrayInt[4]
 
 			if advanceYear == "y" {
